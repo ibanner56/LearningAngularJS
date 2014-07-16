@@ -6,19 +6,26 @@
     });
     var gems = [
 	{
-	name: 'Dodecahedron',
+	name: 'Azurite',
 	price: 2.95,
 	description: '...',
 	canPurchase: true,
 	soldOut: false,
     	},
 	{
-	name: "Pentagonal Gem",
+	name: "Bloodstone",
 	price: 5.95,
 	description: "...",
 	canPurchase: false,
 	soldOut: false	
 	},
+	{
+	name: "Zircon",
+	price: 3.95,
+	description: '...',
+	canPurchase: true,
+	soldOut: false,
+	}
 	]
 })();
 
